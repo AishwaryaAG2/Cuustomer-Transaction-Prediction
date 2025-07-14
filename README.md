@@ -1,7 +1,5 @@
-# Cuustomer-Transaction-Prediction
+# PRCP-1003-Customer Transaction Prediction, a predictive model which will help the bank to identify which customer will make transactions in future.
 
-PRCP-1003-Customer Transaction
- Prediction
 
 Problem Statement
 
